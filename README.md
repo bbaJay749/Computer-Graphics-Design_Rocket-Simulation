@@ -1,13 +1,9 @@
 # Computer-Graphics-Design_Rocket-Simulation
 # 레고로 만드는 우주탐사 로켓 시뮬레이터 
 
-Final project : Computer Graphics Design @ Inha U 2019
-
-DEMO : https://www.youtube.com/watch?v=pQDby5SLIwU
-
-prof : 박인규 (In Kyu PARK)
-   
-   
+Final project : Computer Graphics Design @ Inha U 2019   
+DEMO : https://www.youtube.com/watch?v=pQDby5SLIwU   
+prof : 박인규 (In Kyu PARK)   
    
 --free sources--   
 
